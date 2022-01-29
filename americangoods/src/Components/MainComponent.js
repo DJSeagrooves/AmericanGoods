@@ -4,13 +4,13 @@ import Header from './HeaderComponent';
 import Home from './HomeComponent';
 import Footer from './FooterComponent';
 
+
 class Main extends Component {
+
     render() {
         const HomePage = () => {
             return (
-                <Home
-
-                />
+                <Home/>
             );
         }
 
