@@ -4,7 +4,7 @@ import { HUNTERSEGRAVES00ITEMS } from '../Users/HunterSegraves/UserItems/HunterS
 
 function RenderItem({item}) {
     return (
-        <Card fluid className="col-4">
+        <Card className="col-4">
             <CardImg src={item.image} alt={item.name} />
             <CardBody>
                 <CardTitle>{item.name}</CardTitle>
@@ -34,14 +34,12 @@ class RenderedItem extends Component {
 
         const item = this.state.items.map(item => {
             return (
-                <div key={item.id}>
-                    <RenderItem item={item} />
-                </div>
+                <RenderItem item={item} />
             );
         });
 
         return(
-            <Container fluid>
+            <Container>
                 {item}
             </Container>
         );

@@ -26,13 +26,21 @@ h3 {
 	width: 75%;
 }
 
-.col-card-text {
-	font-family: "Lobster", cursive;
-	font-size: xx-large;
-	font-weight: bold;
+.card-img {
+	height: 25rem;
+	width: 25rem;
+	justify-content: center;
+	align-self: center;
+	align-items: center;
 }
 
-.card-img-top {
-	height: 50%;
-	width: 100%;
+.card {
+	display: inline-flex;
+	margin: 0.25rem;
+}
+
+.card-body {
+	justify-content: center;
+	align-self: center;
+	align-items: center;
 }
