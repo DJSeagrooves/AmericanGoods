@@ -22,5 +22,56 @@ export const HUNTERSEGRAVES00ITEMS = [
         "weight": '2.5 lbs',
         "image": "https://i.postimg.cc/VvyN3XFF/plant-stand-side-view.jpg",
         "featured": true
+    },
+    {
+        'id': 2,
+        "name": 'Plant Stand',
+        'creator': 'Hunter Segraves',
+        "price": '$20',
+        "shipping": 'Ships to US & Canada. Approximately 3-5 days to ship.',
+        "description": 'This plant stand is what you have been looking for, made with sturdy pine and crafted to last. Can be stained in Dark Walnut (shown in picture), a light pine stain, or clear stain to bring out the woods natural appearance.',
+        dimensions: 'L 10in, H 8in, W 10in',
+        "weight": '2.5 lbs',
+        "image": "https://i.postimg.cc/VvyN3XFF/plant-stand-side-view.jpg",
+        "featured": true
+    }
+    ,
+    {
+        'id': 3,
+        "name": 'Plant Stand',
+        'creator': 'Hunter Segraves',
+        "price": '$20',
+        "shipping": 'Ships to US & Canada. Approximately 3-5 days to ship.',
+        "description": 'This plant stand is what you have been looking for, made with sturdy pine and crafted to last. Can be stained in Dark Walnut (shown in picture), a light pine stain, or clear stain to bring out the woods natural appearance.',
+        dimensions: 'L 10in, H 8in, W 10in',
+        "weight": '2.5 lbs',
+        "image": "https://i.postimg.cc/VvyN3XFF/plant-stand-side-view.jpg",
+        "featured": true
+    }
+    ,
+    {
+        'id': 4,
+        "name": 'Plant Stand',
+        'creator': 'Hunter Segraves',
+        "price": '$20',
+        "shipping": 'Ships to US & Canada. Approximately 3-5 days to ship.',
+        "description": 'This plant stand is what you have been looking for, made with sturdy pine and crafted to last. Can be stained in Dark Walnut (shown in picture), a light pine stain, or clear stain to bring out the woods natural appearance.',
+        dimensions: 'L 10in, H 8in, W 10in',
+        "weight": '2.5 lbs',
+        "image": "https://i.postimg.cc/VvyN3XFF/plant-stand-side-view.jpg",
+        "featured": true
+    }
+    ,
+    {
+        'id': 5,
+        "name": 'Plant Stand',
+        'creator': 'Hunter Segraves',
+        "price": '$20',
+        "shipping": 'Ships to US & Canada. Approximately 3-5 days to ship.',
+        "description": 'This plant stand is what you have been looking for, made with sturdy pine and crafted to last. Can be stained in Dark Walnut (shown in picture), a light pine stain, or clear stain to bring out the woods natural appearance.',
+        dimensions: 'L 10in, H 8in, W 10in',
+        "weight": '2.5 lbs',
+        "image": "https://i.postimg.cc/VvyN3XFF/plant-stand-side-view.jpg",
+        "featured": true
     }
 ];
