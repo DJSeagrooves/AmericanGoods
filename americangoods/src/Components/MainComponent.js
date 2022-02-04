@@ -1,8 +1,9 @@
 import React, { Component } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, Route, Routes } from 'react-router-dom';
 import Header from './HeaderComponent';
 import Home from './HomeComponent';
 import Footer from './FooterComponent';
+import ItemPage from './ItemPageComponent';
 
 
 class Main extends Component {
@@ -14,10 +15,21 @@ class Main extends Component {
             );
         }
 
+        const ItemPages = ({match}) => {
+            return (
+                <ItemPage
+                    item={this.props.item.filter(item => item.id === +match.params.itemId)[0]}
+                />
+            );
+        }
+
         return(
             <div>
                 <Header />
-                <Link to="/"><HomePage /></Link>
+                <HomePage />
+                <Routes>
+                    <Route path='/:itemId' element={ItemPages} />
+                </Routes>
                 <Footer />
             </div>
         );

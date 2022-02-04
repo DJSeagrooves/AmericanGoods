@@ -1,6 +1,6 @@
 export const HUNTERSEGRAVES00ITEMS = [
     {
-        "id": 0,
+        "itemId": 0,
         "name": 'Black Limba & Cedar Table',
         "creator": 'Hunter Segraves',
         "price": '$1600',
@@ -8,11 +8,11 @@ export const HUNTERSEGRAVES00ITEMS = [
         "description": 'This beautiful table top is made of exotic black limba sourced from Africa. This is combined with domestic cedar legs to create an absolutely stunning dining experience. Finished with polyurethane to ensure durability for the long run, this table is a once in a lifetime offer.',
         "dimensions": 'L 8ft, H 34in, W 30in',
         "weight": '90 lbs',
-        "image": "https://i.postimg.cc/sD42NQGp/kitchen-table.jpg",
+        "image": "https://i.postimg.cc/VvyN3XFF/plant-stand-side-view.jpg",
         "featured": true
     },
     {
-        "id": 1,
+        "itemId": 1,
         "name": 'Plant Stand',
         "creator": 'Hunter Segraves',
         "price": '$20',
@@ -24,7 +24,7 @@ export const HUNTERSEGRAVES00ITEMS = [
         "featured": true
     },
     {
-        'id': 2,
+        'itemId': 2,
         "name": 'Plant Stand',
         'creator': 'Hunter Segraves',
         "price": '$20',
@@ -37,7 +37,7 @@ export const HUNTERSEGRAVES00ITEMS = [
     }
     ,
     {
-        'id': 3,
+        'itemId': 3,
         "name": 'Plant Stand',
         'creator': 'Hunter Segraves',
         "price": '$20',
@@ -50,7 +50,7 @@ export const HUNTERSEGRAVES00ITEMS = [
     }
     ,
     {
-        'id': 4,
+        'itemId': 4,
         "name": 'Plant Stand',
         'creator': 'Hunter Segraves',
         "price": '$20',
@@ -63,7 +63,7 @@ export const HUNTERSEGRAVES00ITEMS = [
     }
     ,
     {
-        'id': 5,
+        'itemId': 5,
         "name": 'Plant Stand',
         'creator': 'Hunter Segraves',
         "price": '$20',
