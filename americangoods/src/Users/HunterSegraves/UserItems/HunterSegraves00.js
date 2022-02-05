@@ -8,7 +8,7 @@ export const HUNTERSEGRAVES00ITEMS = [
         "description": 'This beautiful table top is made of exotic black limba sourced from Africa. This is combined with domestic cedar legs to create an absolutely stunning dining experience. Finished with polyurethane to ensure durability for the long run, this table is a once in a lifetime offer.',
         "dimensions": 'L 8ft, H 34in, W 30in',
         "weight": '90 lbs',
-        "image": "https://i.postimg.cc/VvyN3XFF/plant-stand-side-view.jpg",
+        "image": "https://i.postimg.cc/sD42NQGp/kitchen-table.jpg",
         "featured": true
     },
     {
